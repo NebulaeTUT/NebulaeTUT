@@ -27,6 +27,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Purpur](https://img.shields.io/badge/Purpur-FF6B6B?style=for-the-badge)
 ![LeviLamina](https://img.shields.io/badge/LeviLamina-4ECDC4?style=for-the-badge)
 
@@ -45,6 +49,11 @@
 ### GitHub 统计
 
 <img src="https://github-readme-stats.vercel.app/api?username=NebulaeTUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="150" />
+
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaeTUT&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 </p>
@@ -73,8 +82,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</p>
+<br/>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NebulaeTUT&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=NebulaeTUT&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+
 </p>
