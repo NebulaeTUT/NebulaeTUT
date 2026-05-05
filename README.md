@@ -10,11 +10,11 @@
 
 ### 关于我
 
-- 📊 大数据专业在校大学生
-- 🏢 效力于 **筑梦方舟网络科技工作室**
-- 🌐 正在学习与实践 **网站开发**
-- ⛏️ **Minecraft 服务器插件开发**（Purpur / LeviLamina）
-- 🖥️ 日常运维 **Minecraft 服务器**
+- 大数据专业在校大学生
+- 效力于 **筑梦方舟网络科技工作室**
+- 正在学习与实践 **网站开发**
+- **Minecraft 服务器插件开发**（Purpur / LeviLamina）
+- 日常运维 **Minecraft 服务器**
 
 </td>
 <td width="50%">
@@ -48,19 +48,26 @@
 
 ### GitHub 统计
 
-<img src="https://github-readme-stats.vercel.app/api?username=NebulaeTUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NebulaeTUT&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaeTUT&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NebulaeTUT&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NebulaeTUT&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=NebulaeTUT&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NebulaeTUT&theme=tokyonight&utcOffset=8" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NebulaeTUT&theme=tokyonight&hide_border=true" />
 
 </p>
 
