@@ -50,29 +50,25 @@
 
 </p>
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NebulaeTUT&theme=tokyonight" />
-</td>
-<td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=NebulaeTUT&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NebulaeTUT&theme=tokyonight" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NebulaeTUT&theme=tokyonight" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NebulaeTUT&theme=tokyonight&utcOffset=8" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NebulaeTUT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NebulaeTUT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NebulaeTUT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NebulaeTUT&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NebulaeTUT&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
